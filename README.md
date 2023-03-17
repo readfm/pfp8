@@ -1,6 +1,10 @@
 # pfp8
 
-A new Flutter project.
+PFP profile picture player
+
+SORT order
+
+:)
 
 ## Getting Started
 
